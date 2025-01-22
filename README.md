@@ -20,6 +20,6 @@ Términos de Servicio para mi aplicación TikTok
     <h2>3. Limitaciones de responsabilidad</h2>
     <p>Esta aplicación no garantiza el funcionamiento continuo ni se responsabiliza por su mal uso.</p>
     <h2>4. Contacto</h2>
-    <p>Para preguntas, contáctanos en: [Tu correo electrónico]</p>
+    <p>Para preguntas, contáctanos en: pandpul@gmail.com</p>
 </body>
 </html>
