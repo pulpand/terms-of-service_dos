@@ -5,11 +5,11 @@ Términos de Servicio para mi aplicación TikTok
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Términos de Servicio</title>
+    Términos de Servicio
 </head>
 <body>
     <h1>Términos de Servicio</h1>
-    <p>Última actualización: [Fecha]</p>
+    <p>Última actualización: 22/01/2025</p>
     <h2>1. Introducción</h2>
     <p>Esta aplicación automatiza la publicación de videos en TikTok desde Google Drive. Al usar esta aplicación, aceptas los términos descritos aquí.</p>
     <h2>2. Responsabilidades del usuario</h2>
